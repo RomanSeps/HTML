@@ -59,6 +59,7 @@ h3{
   width: 900px;
   text-align: left;
   margin-left: 20%;
+  font-family: 'DM Sans', sans-serif;
 }
 
 .txt2{
@@ -69,6 +70,7 @@ h3{
   text-align: left;
   margin-left: 20%;
   margin-top: 1%;
+  font-family: 'DM Sans', sans-serif;
 }
 
 h4{
@@ -103,3 +105,48 @@ h6{
   margin-top: 1%;
 }
 
+.idk{
+  margin: auto;
+  display: inline;
+  color: #B78400;
+}
+
+.idk1{
+  margin: auto;
+  color: #B78400;
+  margin-left: 600px;
+  size: 20px;
+}
+
+.i1{
+  color: #B78400;
+  margin: auto;
+  display: inline-block;
+  margin-left: 600px;
+  font-size: 25px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.i2{
+  color: #FFFFFF;
+  margin: auto;
+  display: inline-block;
+  font-size: 25px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.i3{
+  color: #B78400;
+  margin: auto;
+  display: inline-block;
+  font-size: 25px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.container4{
+  margin-bottom: 5%;
+}
+
+button:hover{
+  cursor: pointer;
+}
